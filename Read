@@ -1,0 +1,13 @@
+Project Description: Skincare Decoder – AI-Powered Ingredient Analysis
+Overview:
+Skincare products contain long lists of ingredients that can be difficult to understand, making it hard to choose the right product for your skin. This project aims to simplify that process using data science and machine learning.
+
+What This Project Does:
+
+Ingredient-Based Recommendations: Uses word embeddings to analyze ingredient similarities and recommend suitable products.
+t-SNE Visualization: Maps cosmetics based on ingredient compositions, helping users see how products relate to each other.
+Interactive Analysis with Bokeh: Provides a dynamic way to explore product similarities and ingredient patterns.
+Why This Matters:
+Instead of relying on trial and error, this project helps users make data-driven skincare choices, reducing the risk of irritation and unwanted reactions. Whether you're avoiding certain ingredients or looking for alternatives to your favorite product, this tool empowers you with insightful visualizations and recommendations.
+
+🔬✨ Let’s use AI to decode skincare ingredients and make better beauty decisions! 🚀
